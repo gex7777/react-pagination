@@ -1,0 +1,20 @@
+.list-container {
+  display: flex;
+  position: relative;
+}
+.details {
+  padding: 0.5rem;
+}
+.name {
+  font-size: 1.5rem;
+}
+.job-title {
+  color: dimgray;
+}
+.beside {
+  display: flex;
+  gap: 0.5rem;
+}
+.company {
+  color: mediumslateblue;
+}

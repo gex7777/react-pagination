@@ -1,0 +1,13 @@
+.circle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 100%;
+  background-color: cornflowerblue;
+  height: 60px;
+  width: 60px;
+}
+.letter {
+  color: #fff;
+  font-size: 2rem;
+}
